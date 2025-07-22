@@ -1,1 +1,9 @@
-# advertising_campaign_analytics
+# Advertising Campaign Performance Analytics
+
+The primary objective of marketing agencies is to maximize the return on investment (ROI) for the client's advertising campaigns. In this project, we determine whether Facebook or AdWords yields better results in terms of conversions, clicks, and overall cost-effectiveness. 
+By identifying the most effective platform, the marketing agency can allocate resources more efficiently to optimize advertising strategies and yield better results for clients.
+
+## Research Question
+Which ad platform is more effective in terms of conversions, clicks, and overall cost-effectiveness?
+
+## Project Organization
