@@ -13,7 +13,7 @@ The project invovles the following technical concepts:
 Which ad platform is more effective in terms of conversions, clicks, and overall cost-effectiveness?
 
 ## Data
-
+This dataset contains 2019 performance metrics for two ad campaigns: one on Facebook and one on Google AdWords. It provides daily data for each campaign, totaling 365 rows, allowing for an analysis of their effectiveness and efficiency throughout the year.
 
 ## Approach
 
