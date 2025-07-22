@@ -4,7 +4,7 @@ The primary objective of marketing agencies is to maximize the return on investm
 By identifying the most effective platform, the marketing agency can allocate resources more efficiently to optimize advertising strategies and yield better results for clients.
 
 The project invovles the following technical concepts:
-- Python: Numpy, Pandas, Matplotlin, Seaborn, Scikit-Learn
+- Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 - Hypothesis Testing
 - Regression Analysis
 - A/B Testing
