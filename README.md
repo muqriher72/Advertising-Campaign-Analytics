@@ -8,6 +8,7 @@ The project invovles the following technical concepts:
 - Hypothesis Testing
 - Regression Analysis
 - A/B Testing
+- Time Series Analysis
 
 ## Research Question
 Which ad platform is more effective in terms of conversions, clicks, and overall cost-effectiveness?
