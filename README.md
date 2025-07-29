@@ -5,10 +5,10 @@ By identifying the most effective platform, the marketing agency can allocate re
 
 The project invovles the following technical concepts:
 - Python: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
-- Hypothesis Testing
+- A/B Hypothesis Testing
 - Regression Analysis
-- A/B Testing
 - Time Series Analysis
+- Tableau dashboard
 
 ## Research Question
 Which ad platform is more effective in terms of conversions, clicks, and overall cost-effectiveness?
