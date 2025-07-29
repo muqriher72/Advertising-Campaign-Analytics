@@ -35,7 +35,12 @@ Key features included in the dataset are as follows:
 - Cost per Click (CPC): The average cost incurred per click on the ad.
 
 ## Approach
+The following tasks are completed in this project:
 
+- EDA with Python
+- AB Hypothesis Testing & Regression Analysis
+- Tableau Dashboard
+- Report
 
 ## Project Organization
 
