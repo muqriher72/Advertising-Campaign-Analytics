@@ -40,36 +40,17 @@ Key features included in the dataset are as follows:
 ## Project Organization
 
 ```
-├── LICENSE                 <- Open-source license if one is chosen
-├── README.md               <- The top-level README for developers using this project.
-├── data
-│   ├── begin_inventory.csv     <- A CSV file that contains information on the initial inventory of a vendor.
-│   ├── end_inventory.csv       <- A CSV file that contains information on the final inventory of a vendor.
-│   ├── purchase_prices.csv     <- A CSV file that contains information on the purchase prices of a vendor.
-│   ├── purchases.7z            <- A CSV file that contains information on the purchases of a vendor.
-│   ├── sales.7z                <- A CSV file that contains information on the sales of a vendor.
-│   └── vendor_invoice.csv      <- A CSV file that contains information on the invoice for a vendor.
+├── LICENSE                            <- Open-source license if one is chosen
+├── README.md                          <- The top-level README for developers using this project.
+├── marketing_campaign.csv             <- A CSV file that contains information on the Facebook and AdWords marketing campaign.
 │
-├── logs                
-│   └── ingestion_db.log        <- A log file that maintains the time taken to ingest the data files into the database.
+├── tableau                 
+│   ├── AdAnalyticsDashboard.twb       <- A Tableau file that contains a dashboard of the overall analysis results.
+│   └── AdAnalyticsDashboard.pptx      <- A Powerpoint file of the Tableau dashboard.
 │
-├── powerbi                 
-│   ├── BrandPerformance.xls         <- A CSV file created in PowerBI using a query and information from the inventory file.
-│   ├── LowTurnoverVendor.xls        <- A CSV file created in PowerBI using a query and information from the inventory file.
-│   ├── inventory.xls                <- A CSV file containing information from the vendor_sales_summary table.
-│   ├── purchase_contributions.xls   <- A CSV file created in PowerBI using a query and information from the inventory file.
-│   ├── vendorperformance.pbix       <- A PowerBI that contains a dashboard of the overall analysis results.
-│   └── vendorperformance.pdf        <- A PDF file of the PowerBI dashboard.
+├── Advertising Campaign Analytics Report.pdf       <- A PDF report summarizing insights and reccomendations based on data analysis. 
 │
-├── Vendor Performance Report.pdf       <- A PDF report summarizing insights and reccomendations based on data analysis. 
-│
-├── exploratory_data_analysis.ipynb     <- A Jupyter Notebook file that contains the initial EDA performed on the data using Python and SQL queries.
-│                         
-├── get_vendor_summary.ipynb            <- A Jupyter Notebook file that contains the vendor summary table made using Python and SQL.
-│
-├── ingest_db.ipynb                     <- A Jupyter Notebook file that contains a Python script to ingest the data into the database and maintain logs.
-│
-└── vendor_performance_analysis.ipynb   <- A Jupyter Notebook file that contains the initial EDA performed on the data.
+└── AB-Hypothesis-Testing-Regression-Analysis.ipynb   <- A Jupyter Notebook file that contains the initial EDA performed on the data.
     
 ```
 
